@@ -1,4 +1,4 @@
-import FormatosMensagem.FormatarMensagem;
+package FormatosMensagem;
 
 import java.time.LocalDateTime;
 

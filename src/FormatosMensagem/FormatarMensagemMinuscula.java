@@ -1,4 +1,4 @@
-import FormatosMensagem.FormatarMensagem;
+package FormatosMensagem;
 
 public class FormatarMensagemMinuscula implements FormatarMensagem {
 

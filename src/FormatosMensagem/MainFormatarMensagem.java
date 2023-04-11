@@ -1,5 +1,4 @@
-import FormatosMensagem.FormatarMensagem;
-import FormatosMensagem.FormatarMensagemAoContrario;
+package FormatosMensagem;
 
 import java.util.Scanner;
 
